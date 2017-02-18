@@ -1,0 +1,38 @@
+Header - Bem vindo ao curso de Eng. de Software
+Body - Informações sobre o curso
+Assuntos abordados: 
+* Java 
+* Android 
+* C# 
+* Tecnologias sobre desenvolvimento agil de software
+
+Estrutura Curricular
+
+Núcleo Básico - 64 horas
+- Fundamentos de Engenharia de Software - 32 horas
+- Engenharia de Requisitos - 32 horas
+
+Núcleo Específico - 224 horas
+- Projeto de Interfaces Humano Computador - 32 horas 
+- Banco de Dados - 32 horas
+- Verificação e Validação de Softwares - 32 horas
+- Qualidade de Software - 32 horas
+- Gestão de Projetos de Software - 32 horas
+- Projeto de Software Baseado em Padrões - 32 horas
+- Projeto de Softwares para Dispositivos Móveis - 32 horas
+
+Núcleo Avançado - 96 horas
+- Desenvolvimento de Softwares I - 32 horas
+- Desenvolvimento de Softwares II - 32 horas
+- Tópicos Avançados em Engenharia de Software - 32 horas
+
+Núcleo Comum - 160 horas
+- Metodologia da Pesquisa Científica (semipresencial) - 30 horas
+- Didática do Ensino Superior (semipresencial) - 30 horas
+- Trabalho de Conclusão de Curso - 100 horas 
+
+
+OPINIÕES DOS ALUNOS
+
+CONTATOS
+
